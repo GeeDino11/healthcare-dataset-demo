@@ -68,7 +68,7 @@ To get started, you’ll need access to Snowflake and a basic understanding of P
 
 Some interesting insights I uncovered in this analysis:
 
-- **Age Trends:** Most patients are between 30-60 years old, with a small number of outliers above 100.
+- **Age Trends:** Most patients are between 30-60 years old.
 - **Billing Amounts:** Average billing amounts vary significantly by admission type and insurance provider.
 - **Medical Condition Distribution:** The top 5 most common medical conditions indicate major health concerns, helping prioritize resources effectively.
 
