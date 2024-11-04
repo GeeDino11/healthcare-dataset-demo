@@ -1,0 +1,17 @@
+# Snowflake connector and Snowpark
+snowflake-connector-python
+snowflake-snowpark-python
+
+# Data analysis and manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn 
+
+# Environment variable management
+python-dotenv
+
+# Statistical libraries
+scipy
