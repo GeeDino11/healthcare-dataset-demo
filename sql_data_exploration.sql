@@ -83,7 +83,7 @@ WHERE HOSPITAL = 'Sons and Miller'
 GROUP BY ADMISSIONTYPE
 ORDER BY average_billing DESC;
 
--- Distribution of patient count by age (in bins of 10 years)
+-- Distribution of patient count by age by groups
 SELECT
   CASE 
     WHEN AGE BETWEEN 0 AND 18 THEN '0-18'
